@@ -1,0 +1,18 @@
+Ultimate Spider-Man(tm)   Minimum System Requirements
+
+* 3D hardware accelerator card required - 100% DirectX(R) 9.0c-compliant 64 MB video card and drivers*
+* Microsoft(R) Windows(R) 2000/XP
+* Pentium(R) III 1.2 GHz or Athlon(TM) 1.2 GHz or higher processor
+* 256 MB of RAM
+* 3500 MB of uncompressed hard disk space (plus 400 MB for the Windows(R) swap file)
+* A 100% Windows(R) 2000/XP - compatible computer system including:
+* DirectX(R) 9.0c (Included)         
+* 100% DirectX(R) 9.0c-compliant true 16-bit sound card and drivers
+* 100% Windows(R) 2000/XP - compatible mouse, keyboard and drivers
+* 100% Windows(R) 2000/XP - DVD drive and drivers
+
+*Supported Chipsets for Windows 2000/XP
+All NVIDIA(R) GeForce2(TM) and better chipsets
+All ATI(R) Radeon 7500(TM) and better chipsets
+
+*Important Note: Some 3D accelerator cards with the chipsets listed here may not be compatible with the 3D acceleration features utilized by Ultimate Spider-Man(tm). Please refer to your hardware manufacturer for 100% DirectX 9.0c compatibility.
