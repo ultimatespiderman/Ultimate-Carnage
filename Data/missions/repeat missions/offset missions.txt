@@ -1,0 +1,48 @@
+Missions Offset For Ultimate Carnage
+
+Offset  Mission
+40 41  s01_fathers_pride
+40 40  v01_feeding_time
+80 40  v02_Wolverine
+A0 40  s03_rhino_rampage 
+C0 40  s04_rhino_beatdown
+E0 40  v03_throw_down
+30 41  s08_class_trip
+70 41  v07_electro_chase
+80 41  v08 electro_finale
+41 41  s05_sky_chase
+10 41  s06_skyscraper_battle
+88 41  v10_beetle_batle
+20 41  s10_spidey_vs_sable
+90 41  v09_great_escape
+98 41  s07_gg_vs_spidey
+A0 41  s11_defend_sable
+B8 41  v12_venvscar
+B0 41  s13_final_battle
+C0 41  Game Finished 
+
+WARNING FOR CUSTOM MISSION OF ULTIMATE CARNAGE THE MISSIONS EDITED COULD BE CRASH THE GAME OR BUGS
+
+
+Missions Offset For Ultimate Spider-Man Original Game
+
+Offset  Mission
+40 41  s01_fathers_pride
+40 40  v01_feeding_time
+80 40  v02_Wolverine
+A0 40  s03_rhino_rampage 
+C0 40  s04_rhino_beatdown
+E0 40  v03_throw_down
+30 41  s08_class_trip
+70 41  v07_electro_chase
+80 41  v08 electro_finale
+41 41  s05_sky_chase
+10 41  s06_skyscraper_battle
+88 41  v09_great_escape
+20 41  s07_gg_vs_spidey
+90 41  v10_beetle_batle
+98 41  s10_spidey_vs_sable
+A0 41  s11_defend_sable
+B8 41  v12_venvscar
+B0 41  s13_final_battle
+C0 41  Game Finished 
